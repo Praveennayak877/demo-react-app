@@ -9,7 +9,7 @@ import AxiosAPI from './axiosAPI';
 function App() {
   return (
     <div className="App">
-     {/* <Greet name="rohit" lastName="sharma"  /> */}
+     <Greet name="rohit" lastName="sharma"  />
 
 {/* 
      <Welcome name="rohit" lastName="sharma" />
@@ -17,7 +17,7 @@ function App() {
 
      {/* <Message /> */}
      {/* <Counter /> */}
-     <AxiosAPI />
+     {/* <AxiosAPI /> */}
     </div>
   );
 }
